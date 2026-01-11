@@ -1,4 +1,4 @@
-import rehypeKatex from "rehype-katex";
+  import rehypeKatex from "rehype-katex";
 import remarkMath from "remark-math";
 import nextra from "nextra";
 
